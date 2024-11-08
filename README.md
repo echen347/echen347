@@ -1,16 +1,14 @@
-## Hi there 👋
+`Hi! I'm Ethan. I'm passionate about contributing to academic literature and creative problem solving.`
 
-<!--
-**echen347/echen347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```math
+\begin{align}
+\text{interests}_{reserach} &:= \{ \text{geometry}, \text{algoritms} \} \\
+\text{interests}_{academic} &:= \{ \text{probability}, \text{deep learning} \} \\
+\text{interests}_{personal} &:= \{ \text{photography}, \text{philosphy} \} \\
+\end{align}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+More specifcally, my reserach focus is on riemannian geometry, with a focus on the generalized cartan hadamard conjecture.
+This involves mathematics that falls broadly under differential geometry, geometric measure theory, and some algbera.
+```
