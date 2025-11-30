@@ -2,9 +2,9 @@ Hi! I’m Ethan.
 
 echen347.github.io
 
-I'm passionate about creative problem solving and contributing to academic literature.
+I’m passionate about reasoning from first principles and creative problem solving.
 
-My research can be summarized as applying difficult math to improve sampling algorithms and generative models on complex spaces.
+My research focuses on the mathematical foundations of sampling algorithms and structure-preserving generative models.
 
 Academics aside, I enjoy reading, photography, philosophy, and listening to a lot of music.
 
